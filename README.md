@@ -27,12 +27,12 @@ Learn more here: https://youtu.be/iScy18pVR58
 ## Stats Against Stockfish
 
 - **Stockfish 14 Level 1 (1500 ELO):** 
-    - ~98% LOS
+    - ~98% LOS (Likelyhood Of Superiority)
     - ~90% Win Rate
 - **Stockfish 14 Level 2 (1600 ELO):** 
     - ~97% LOS 
     - ~70% Win Rate- 
-- **Stockfish 14 Level 2 (1700 ELO):** 
+- **Stockfish 14 Level 3 (1700 ELO):** 
     - Not tested yet
 
 
@@ -57,6 +57,6 @@ Learn more here: https://youtu.be/iScy18pVR58
 
 ## Demo
 
-# SFBot is Stockfish 14 Level 2 (1700 ELO)
+### SFBot is Stockfish 14 Level 2 (1600 ELO)
 
 ![](https://github.com/Lxdovic/Chess-Challenge/blob/master/Chess-Challenge/resources/demo.gif)

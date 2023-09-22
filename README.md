@@ -1,5 +1,5 @@
 
-# Sebastian League's Chess Coding Challenge
+# Sebastian Lague's Chess Coding Challenge
 
 Learn more here: https://youtu.be/iScy18pVR58
 

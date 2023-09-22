@@ -23,17 +23,15 @@ Learn more here: https://youtu.be/iScy18pVR58
 
 ## Stats
 
-- **V1 vs Stockfish 14 Level 1 (1500 ELO):** 
-    - ~98% LOS (Likelyhood Of Superiority)
-    - ~90% Win Rate
-      
-- **V1 vs Stockfish 14 Level 2 (1600 ELO):** 
-    - ~97% LOS 
-    - ~70% Win Rate
-      
-- **V2 vs V1:** 
-    - 99.99% LOS 
-    - ~85% Win Rate
+[What is LOS](https://www.chessprogramming.org/LOS_Table)
+
+|                           | V1                        | V2                        |
+| :------------------------ | :-----------------------: | ------------------------: |
+| V1                        |              X            |  100% LOS; ~85% Win Rate  |
+| V2                        |              X            |             X             |
+| Stockfish 14 lvl 1 (1500) |  ~98% LOS; ~90% Win Rate  |  ~98% LOS; ~90% Win Rate  |
+| Stockfish 14 lvl 2 (1600) |  ~97% LOS; ~70% Win Rate  |             X             |
+| Stockfish 14 lvl 5 (1875) |              X            |  ~91% LOS; ~61% Win Rate  |
 
 
 ## Run Locally

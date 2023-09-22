@@ -34,7 +34,7 @@ Learn more here: https://youtu.be/iScy18pVR58
 | V2                        |              X            |             X             |
 | Stockfish 14 lvl 1 (1500) |  ~98% LOS; ~90% Win Rate  |             X             |
 | Stockfish 14 lvl 2 (1600) |  ~97% LOS; ~70% Win Rate  |             X             |
-| Stockfish 14 lvl 5 (1875) |              X            |  ~98% LOS; ~65% Win Rate  |
+| Stockfish 14 lvl 5 (1875) |              X            |  ~99% LOS; ~68% Win Rate  |
 
 
 ## Run Locally

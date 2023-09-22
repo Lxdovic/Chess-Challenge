@@ -3,9 +3,6 @@
 
 Learn more here: https://youtu.be/iScy18pVR58
 
-
-
-
 ## Authors
 
 - [@Lxdovic](https://www.github.com/Lxdovic)
@@ -24,16 +21,19 @@ Learn more here: https://youtu.be/iScy18pVR58
 - [Move Ordering](https://www.chessprogramming.org/Move_Ordering)
 
 
-## Stats Against Stockfish
+## Stats
 
-- **Stockfish 14 Level 1 (1500 ELO):** 
+- **V1 vs Stockfish 14 Level 1 (1500 ELO):** 
     - ~98% LOS (Likelyhood Of Superiority)
     - ~90% Win Rate
-- **Stockfish 14 Level 2 (1600 ELO):** 
+      
+- **V1 vs Stockfish 14 Level 2 (1600 ELO):** 
     - ~97% LOS 
-    - ~70% Win Rate- 
-- **Stockfish 14 Level 3 (1700 ELO):** 
-    - Not tested yet
+    - ~70% Win Rate
+      
+- **V2 vs V1:** 
+    - 99.99% LOS 
+    - ~85% Win Rate
 
 
 ## Run Locally

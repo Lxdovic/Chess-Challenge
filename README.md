@@ -1,10 +1,7 @@
 
-# Sebastian League's Chess Coding Challenge
+# Sebastian Lague's Chess Coding Challenge
 
 Learn more here: https://youtu.be/iScy18pVR58
-
-
-
 
 ## Authors
 
@@ -18,22 +15,26 @@ Learn more here: https://youtu.be/iScy18pVR58
 - [Alpha-Beta Pruning](https://www.chessprogramming.org/Alpha-Beta)
 - [Iterative Deepening](https://www.chessprogramming.org/Iterative_Deepening)
 - [Quiesence Search](https://www.chessprogramming.org/Quiescence_Search)
-
-## Coming Up Features
 - [Transposition Tables](https://www.chessprogramming.org/Transposition_Table)
 - [Move Ordering](https://www.chessprogramming.org/Move_Ordering)
 
+## Coming Up Features
+- Killer Moves?
+- Better Move Ordering?
+- Search Extensions?
 
-## Stats Against Stockfish
 
-- **Stockfish 14 Level 1 (1500 ELO):** 
-    - ~98% LOS (Likelyhood Of Superiority)
-    - ~90% Win Rate
-- **Stockfish 14 Level 2 (1600 ELO):** 
-    - ~97% LOS 
-    - ~70% Win Rate- 
-- **Stockfish 14 Level 3 (1700 ELO):** 
-    - Not tested yet
+## Stats
+
+[What is LOS](https://www.chessprogramming.org/LOS_Table)
+
+|                           | V1                        | V2                        |
+| :------------------------ | :-----------------------: | ------------------------: |
+| V1                        |              X            |  100% LOS; ~85% Win Rate  |
+| V2                        |              X            |             X             |
+| Stockfish 14 lvl 1 (1500) |  ~98% LOS; ~90% Win Rate  |             X             |
+| Stockfish 14 lvl 2 (1600) |  ~97% LOS; ~70% Win Rate  |             X             |
+| Stockfish 14 lvl 5 (1875) |              X            |  ~99% LOS; ~68% Win Rate  |
 
 
 ## Run Locally

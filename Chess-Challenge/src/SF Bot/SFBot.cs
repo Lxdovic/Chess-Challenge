@@ -9,7 +9,7 @@ public class SFBot : IChessBot
     private StreamWriter Ins() => _stockfishProcess.StandardInput;
     private StreamReader Outs() => _stockfishProcess.StandardOutput;
 
-    private const int SkillLevel = 7;
+    private const int SkillLevel = 8;
     /* Select the skill level of stockfish 7 (min = 0, max = 20)
     These are Elo approximations of each level:
      00    1350

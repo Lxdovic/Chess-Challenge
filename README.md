@@ -8,7 +8,7 @@ Learn more here: https://youtu.be/iScy18pVR58
 - [@Lxdovic](https://www.github.com/Lxdovic)
 
 
-## Features
+## Features (V4)
 
 - [PeSTo's Evaluation Function](https://www.chessprogramming.org/PeSTO%27s_Evaluation_Function)
 - [Negamax](https://www.chessprogramming.org/Negamax)
@@ -17,12 +17,8 @@ Learn more here: https://youtu.be/iScy18pVR58
 - [Quiesence Search](https://www.chessprogramming.org/Quiescence_Search)
 - [Transposition Tables](https://www.chessprogramming.org/Transposition_Table)
 - [Move Ordering](https://www.chessprogramming.org/Move_Ordering)
-
-## Coming Up Features
-- Killer Moves?
-- Better Move Ordering?
-- Search Extensions?
-
+- [Aspiration Windows](https://web.archive.org/web/20071031095918/http://www.brucemo.com/compchess/programming/aspiration.htm)
+- [Null Move Forward Pruning](https://web.archive.org/web/20071031095933/http://www.brucemo.com/compchess/programming/nullmove.htm)
 
 ## Stats
 

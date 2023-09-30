@@ -24,13 +24,14 @@ Learn more here: https://youtu.be/iScy18pVR58
 
 [What is LOS](https://www.chessprogramming.org/LOS_Table)
 
-|                           | V1                        | V2                        |
-| :------------------------ | :-----------------------: | ------------------------: |
-| V1                        |              X            |  100% LOS; ~85% Win Rate  |
-| V2                        |              X            |             X             |
-| Stockfish 14 lvl 1 (1500) |  ~98% LOS; ~90% Win Rate  |             X             |
-| Stockfish 14 lvl 2 (1600) |  ~97% LOS; ~70% Win Rate  |             X             |
-| Stockfish 14 lvl 5 (1875) |              X            |  ~99% LOS; ~68% Win Rate  |
+|                           | V1                        | V2                        | V3                        | V4                        |
+| :------------------------ | :-----------------------: | ------------------------: | ------------------------: | ------------------------: |
+| V1                        |              X            |  100% LOS; ~85% Win Rate  |             X             |             X             |
+| V2                        |              X            |             X             |             X             |             X             |
+| Stockfish 14 lvl 1 (1500) |  ~98% LOS; ~90% Win Rate  |             X             |             X             |             X             |
+| Stockfish 14 lvl 2 (1600) |  ~97% LOS; ~70% Win Rate  |             X             |             X             |             X             |
+| Stockfish 14 lvl 5 (1875) |              X            |  ~99% LOS; ~68% Win Rate  |             X             |             X             |
+| Stockfish 14 lvl 8 (2100) |              X            |             X             |             X             |  ~99% LOS; ~66% Win Rate  |
 
 
 ## Run Locally
@@ -54,6 +55,6 @@ Learn more here: https://youtu.be/iScy18pVR58
 
 ## Demo
 
-### SFBot is Stockfish 14 Level 2 (1600 ELO)
+### Vs Stockfish 14 Level 2 (1600 ELO)
 
 ![](https://github.com/Lxdovic/Chess-Challenge/blob/master/Chess-Challenge/resources/demo.gif)

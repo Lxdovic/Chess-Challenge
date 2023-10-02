@@ -55,6 +55,6 @@ Learn more here: https://youtu.be/iScy18pVR58
 
 ## Demo
 
-### Vs Stockfish 14 Level 2 (1600 ELO)
+### Vs Stockfish 14 Level 8 (2100 ELO)
 
 ![](https://github.com/Lxdovic/Chess-Challenge/blob/master/Chess-Challenge/resources/newdemo.gif)
